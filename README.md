@@ -1,2 +1,2 @@
 # SAP-Basis
-Raccolta di guide per installare-configurare SAP
+Raccolta di guide per installare/configurare SAP
